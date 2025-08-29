@@ -32,9 +32,9 @@ terraform-modules/
 
 ## Monthly Costs (US East 1)
 
-### Per Environment (1.4KB content, minimal traffic):
+### Per Environment (less than one GB content, minimal traffic):
 - **ACM Certificate**: $0 (free for AWS services)
-- **S3 Storage**: ~$0.01 (1.4KB content)
+- **S3 Storage**: ~$0.01 (less than one GB content)
 - **CloudFront**: ~$0.50 (minimal traffic)
 
 ### Total Estimated Costs:
